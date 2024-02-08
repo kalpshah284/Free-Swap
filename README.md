@@ -14,7 +14,5 @@ forked uniswap and added EIP2585 in which used biconomy relayer which call permi
 1. npm install <br>
 2. truffle migrate --network [networkName] (networkName: Ropsten)
 
-# Out put 
-![Screenshot](output.png)
-![Screenshot](pa2.png)
+
 
